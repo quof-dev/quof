@@ -1,0 +1,1 @@
+from .qplaintextedit import QBaseTextEdit

@@ -1,0 +1,22 @@
+{
+    "includes": ["qt6"],
+    "sources": {
+        "right-arrow": ""
+    },
+    "classes": {
+        "QMenu": {
+            "separator": {
+                "background[qcolor]": {"*": ["#313131"]},
+                "margin[integer]": {"*": [5]},
+                "max-height[integer]": {"*": [1]}
+            },
+            "right-arrow": {
+                "image[qpixmap]": {
+                    "source[string]": "sources:/right-arrow", "color[qcolor]": {"*": [255, 255, 255]}
+                },
+                "width[integer]": {"*": [12]},
+                "height[integer]": {"*": [12]}
+            }
+        }
+    }
+}

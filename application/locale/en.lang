@@ -1,0 +1,50 @@
+## Russian translate for Quof
+## Created by Menlis Smith
+## Version: 1.0.0.0
+
+# Menubar
+menubar.file="File"
+menubar.edit="Edit"
+menubar.view="View"
+menubar.plugins="Extension"
+menubar.help="Help"
+
+# Menubar -> File
+menubar.file.new="New"
+menubar.file.open="Open"
+menubar.file.save="Save"
+menubar.file.save_as="Save as"
+menubar.file.print="Print"
+menubar.file.settings="Settings"
+menubar.file.exit="Exit"
+
+# Menubar -> Edit
+menubar.edit.undo="Undo"
+menubar.edit.redo="Redo"
+menubar.edit.cut="Cut"
+menubar.edit.copy="Copy"
+menubar.edit.paste="Paste"
+menubar.edit.del="Delete"
+menubar.edit.select_all="Select all"
+menubar.edit.find="Find"
+menubar.edit.translate="Translate"
+menubar.edit.copy_all="Copy all"
+menubar.edit.web_search="Web search"
+menubar.edit.add_to_dict="Add to dict"
+menubar.edit.suggest="Suggest"
+
+# Menubar -> View
+menubar.view.zoom_in="Zoom in"
+menubar.view.zoom_out="Zoom out"
+menubar.view.restore_zoom="Restore zoom"
+menubar.view.enable_word_wrap="Enable word wrap"
+menubar.view.disable_word_wrap="Disable word wrap"
+
+# Tab Widget
+
+tabwidget.untitled="Untitled"
+
+# Dialogs
+
+dialog.open_file="Open file"
+dialog.open_file.files="Text Files (*.txt);;All Files (*.*)"

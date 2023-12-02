@@ -1,0 +1,1 @@
+from .qbasewidget import QBaseWidget
